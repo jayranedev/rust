@@ -1,2 +1,6 @@
-*.exe
-*.pdb
+.exe
+.pdb
+/target/
+Cargo.lock
+.DS_Store
+Thumbs.db
